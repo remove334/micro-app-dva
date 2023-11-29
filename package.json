@@ -1,0 +1,20 @@
+{
+  "name": "miniapp-dva",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./index.js",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "miniapp",
+    "redux",
+    "dd",
+    "dva"
+  ],
+  "author": "cqh <zhi28881407@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dva-core": "^2.0.4"
+  }
+}
